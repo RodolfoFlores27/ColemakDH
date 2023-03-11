@@ -59,8 +59,8 @@ AppsKey::RControl
 ;Right::Up
 
 ;set Backspace to CapsLock key
-sc03a::backspace
-backspace::CapsLock
+;sc03a::backspace
+;backspace::CapsLock
 
 ::rpa::Robotic Process Automation
 return
